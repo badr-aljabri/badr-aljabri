@@ -1,16 +1,24 @@
-## Hi there 👋
+Badr Aljabri
 
-<!--
-**badr-aljabri/badr-aljabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fourth-Year Information Technology Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm an IT student passionate about programming, software development, and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- Interested in Software Engineering and Backend Development.
+- Learning Python, Java, Kotlin, and JavaScript.
+- Working with Django, Node.js, Express, and MongoDB.
+- Interested in Android Development and Database Systems.
+- Studying Artificial Intelligence, Computer Networks, and Cybersecurity.
+- Always focused on learning and improving my technical skills.
+
+Technologies
+
+Python · Java · Kotlin · JavaScript · Django · Node.js · Express · MongoDB · MySQL · Git · GitHub
+
+Goal
+
+To become a skilled IT professional and build practical software solutions through continuous learning and development.
+
+Learn. Build. Improve.
